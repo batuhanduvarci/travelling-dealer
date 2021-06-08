@@ -1,4 +1,4 @@
-# data-structure-skeleton-for-nominees
+# Travelling Salesman problem with Java
 An example project to provide an insight about Singly Linked List Node. 
 
 + printNodes() -> ✔
